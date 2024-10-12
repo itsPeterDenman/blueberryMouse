@@ -1,0 +1,9 @@
+# Objects
+*.o
+
+# Libraries
+*.lib
+*.a
+
+# Executables
+*.out
